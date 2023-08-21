@@ -1,0 +1,89 @@
+img{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        
+}
+ul{
+    text-align: end;
+}
+li{
+    color:black;
+    display: inline;
+    font-size: 50px;
+    text-align: center;
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+    overflow: hidden;
+
+}
+h1{
+    font-size: 70px;
+    color: red;
+}
+
+div{
+    display: block;
+    }
+#definition{
+    first-line{
+        letter-spacing: 4px;
+        word-spacing: 4px;
+      };
+    color: black;
+    font-family:roboto;
+    font-style: bold;
+    font-weight: normal;
+    font-size: 20px
+}
+h3{
+    text-align: center;
+}
+#ability{
+    first-line{
+        letter-spacing: 4px;
+        word-spacing: 4px;
+      };
+    color: black;
+    font-family:roboto;
+    font-style: bold;
+    font-weight: normal;
+    font-size: 20px
+}
+#ability1{
+    first-line{
+        letter-spacing: 4px;
+        word-spacing: 4px;
+      };
+    color: black;
+    font-family:roboto;
+    font-style: bold;
+    font-weight: normal;
+    font-size: 20px
+}
+h4{
+    font-size: 20px;
+    color: rgb(47, 0, 255);
+}
+iframe{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h5{
+    font-size: 20px;
+    color: rgb(47, 0, 255);
+}
+label{
+    font-size: 20px;
+    color: rgb(60, 3, 43);
+}
+button{
+    color:red;
+}
+
